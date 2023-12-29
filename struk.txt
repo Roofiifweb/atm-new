@@ -1,0 +1,6 @@
+Struk Transaksi
+Tanggal: 2023-12-28
+Waktu: 21:01:42.460998
+Detail Transaksi:
+Jumlah yang Ditarik/Setor: RpX.X
+Saldo Tersisa: Rp8000000.0
